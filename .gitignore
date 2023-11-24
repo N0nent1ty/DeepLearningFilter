@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.virtual_documents
+checkPoint_dir
+**/__pycache__
+FinalSavedPath_dir
